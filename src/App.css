@@ -1,0 +1,12 @@
+.middle {
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+}
+.main-contianer {
+   position: relative;
+   min-height: 100%;
+}
